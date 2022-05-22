@@ -9,6 +9,7 @@ This repo contains:
 ### Project details
 
 The code has been adapted from [Udacity Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893 "Udacity Deep Reinforcement Learning Nanodegree").
+
 The MCTS implementation follows the explanation [Monte Carlo Tree Search](https://www.youtube.com/watch?v=UXW2yZndl7U "here").
 
 This is an implementation of a an agent that uses a vanilla implementation of the MCTS algorithm in order to play the openAI gym game of CartPole.
