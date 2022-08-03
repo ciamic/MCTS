@@ -51,3 +51,5 @@ python -m ipykernel install --user --name MCTS --display-name "MCTS"
 - `Python 3`
 - `numpy`
 - `matplotlib`
+- `gym`
+
