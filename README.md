@@ -1,5 +1,5 @@
 # MCTS
- Implementation of a Monte Carlo Tree Search algorithm
+ [Implementation of a Monte Carlo Tree Search algorithm](https://medium.com/@_michelangelo_/monte-carlo-tree-search-mcts-algorithm-for-dummies-74b2bae53bfa "Implementation of a Monte Carlo Tree Search algorithm")
  
 ## Introduction
 This repo contains: 
